@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Work Projects",
+    "color": "bg-blue-500",
+    "order": 1,
+    "isExpanded": true,
+    "createdAt": "2024-12-19T10:00:00Z",
+    "updatedAt": "2024-12-19T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Finance",
+    "color": "bg-green-500",
+    "order": 2,
+    "isExpanded": true,
+    "createdAt": "2024-12-19T10:00:00Z",
+    "updatedAt": "2024-12-19T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Personal",
+    "color": "bg-purple-500",
+    "order": 3,
+    "isExpanded": true,
+    "createdAt": "2024-12-19T10:00:00Z",
+    "updatedAt": "2024-12-19T10:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Side Projects",
+    "color": "bg-orange-500",
+    "order": 4,
+    "isExpanded": true,
+    "createdAt": "2024-12-19T10:00:00Z",
+    "updatedAt": "2024-12-19T10:00:00Z"
+  }
+]
