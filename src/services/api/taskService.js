@@ -26,7 +26,7 @@ class TaskService {
     await delay(400)
     
     // Find highest existing ID and add 1
-    const maxId = this.tasks.reduce((max, task) => {
+    /*const maxId = this.tasks.reduce((max, task) => {
       const taskId = parseInt(task.id)
       return taskId > max ? taskId : max
     }, 0)
@@ -39,7 +39,7 @@ class TaskService {
       updatedAt: new Date().toISOString()
     }
     
-    this.tasks.unshift(newTask)
+    this.tasks.unshift(newTask)*/
     return { ...newTask }
   }
 
